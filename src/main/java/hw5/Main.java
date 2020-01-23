@@ -1,4 +1,5 @@
-import main.java.lists.Generic;
+package main.java.hw5;
+import main.java.hw5.lists.Generic;
 
 public class Main {
 

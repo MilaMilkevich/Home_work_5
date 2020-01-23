@@ -1,4 +1,4 @@
-package main.java.lists;
+package main.java.hw5.lists;
 
 import java.util.ArrayList;
 import java.util.Collections;
